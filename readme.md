@@ -19,3 +19,7 @@
 ## Additional Mechanic
 
 Once the animation ends, to replay it simply press on the replay button on the top-left edge of the screen.
+
+## Screenshot
+
+![Alt text](screen_grab.png "Screenshot")
