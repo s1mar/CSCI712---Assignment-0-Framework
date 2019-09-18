@@ -7,7 +7,8 @@
 ## What does it do or the task at hand?
 
 ¤Animate a simple object (I.e. cube or teapot) using a mathematical expression to describe motion.  
-¤20 second animation¤X position = 5t (t is time in sec)  
+¤20 second animation  
+¤X position = 5t (t is time in sec)  
 ¤Y position = 5t (t is time in sec)  
 ¤Z position = constant¤Rotation around Y axis = 18t (t is time in sec) –in degrees¤Rotation around X and Z axis = 0.
 
