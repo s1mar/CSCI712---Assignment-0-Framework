@@ -1,6 +1,6 @@
 # CSCI 712 Assignment 0: Framework
 
- Goal: Create the framework and testbed for the animation techniques to be explored during the semester. 
+ Goal: Create the framework and testbed for the animation techniques to be explored during the semester.   
  Made by Simarjot Khanna under the supervision of Prof.Joe Geigel, D.Sc
 
 
