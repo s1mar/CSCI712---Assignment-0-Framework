@@ -10,7 +10,9 @@
 ¤20 second animation  
 ¤X position = 5t (t is time in sec)  
 ¤Y position = 5t (t is time in sec)  
-¤Z position = constant¤Rotation around Y axis = 18t (t is time in sec) –in degrees¤Rotation around X and Z axis = 0.
+¤Z position = constant  
+¤Rotation around Y axis = 18t (t is time in sec) –in degrees  
+¤Rotation around X and Z axis = 0.
 
 ## A note about the camera placement
 
